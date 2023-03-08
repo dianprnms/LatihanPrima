@@ -3,5 +3,4 @@ fun main(args: Array<String>) {
     val primaa = Prima(4)
     primaa.sum()
 
-
 }

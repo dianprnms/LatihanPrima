@@ -1,13 +1,3 @@
-//class Prima (var angka : Int){
-//    fun sum() {
-//        if((angka / angka == 1) || (angka % 2 == 1)){
-//            print("Prima")
-//        }else{
-//            print("Bukan Prima")
-//        }
-//    }
-//}
-
 class Prima(var number : Int) {
     fun sum() {
         if (number <= 1) {
@@ -20,7 +10,5 @@ class Prima(var number : Int) {
             }
         }
         print("Prima")
-
     }
-
 }
